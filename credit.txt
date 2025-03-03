@@ -1,0 +1,21 @@
+Untitled Civ Game
+
+[Directors]
+Main Director - Unho Lyu
+
+[Developers]
+Main Developer - Unho Lyu
+Sub Developer - ChapGPT
+
+[Supporters]
+- DeepSeek (Informations) -
+- Dongsoo O -
+
+[Donaters]
+None
+
+[Civs]
+- Developers - : Greenland (25.03.02), Korea (25.03.TBD), Brazil (25.03.TBD)
+- Dongsoo O - : Eygpt (25.03.TBD), Sweden (25.03.TBD)
+
+Pre-Alpha 2025.03.01 ~

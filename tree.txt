@@ -1,0 +1,73 @@
+폴더 PATH의 목록입니다.
+볼륨 일련 번호는 1CCB-9DB3입니다.
+C:.
+|   building.py
+|   civ.py
+|   credit.txt
+|   koppen_geiger_0p1.tif
+|   launcher.py
+|   launcher.spec
+|   main.py
+|   map_.py
+|   play.py
+|   tree.txt
+|   unit.py
+|   world_map_mask.png
+|   
++---build
+|   \---launcher
+|       |   Analysis-00.toc
+|       |   base_library.zip
+|       |   EXE-00.toc
+|       |   launcher.pkg
+|       |   PKG-00.toc
+|       |   PYZ-00.pyz
+|       |   PYZ-00.toc
+|       |   warn-launcher.txt
+|       |   xref-launcher.html
+|       |   
+|       \---localpycs
+|               pyimod01_archive.pyc
+|               pyimod02_importers.pyc
+|               pyimod03_ctypes.pyc
+|               pyimod04_pywin32.pyc
+|               struct.pyc
+|               
++---Civilizations
+|   |   __init__.py
+|   |   
+|   +---GRL
+|   |   |   GRL_b.py
+|   |   |   GRL_gen.py
+|   |   |   GRL_u.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           GRL_gen.cpython-313.pyc
+|   |           GRL_general.cpython-313.pyc
+|   |           __init__.cpython-313.pyc
+|   |           
+|   \---__pycache__
+|           __init__.cpython-313.pyc
+|           
++---dist
+|       launcher.exe
+|       
++---gfx
+|       GRL.png
+|       GRL_circle.png
+|       
++---hooks
+|   \---hooks-rasterio.py
+|           hook-rasterio.py
+|           
+\---__pycache__
+        building.cpython-313.pyc
+        civ.cpython-313.pyc
+        main.cpython-313.pyc
+        map.cpython-313.pyc
+        map_.cpython-313.pyc
+        mymap.cpython-313.pyc
+        play.cpython-313.pyc
+        unit.cpython-313.pyc
+        
